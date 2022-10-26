@@ -1,5 +1,5 @@
 # About US
-### 👋 Olá, somos um time de tecnologia do Grupo Brisanet.
+### 👋 Hello, we are a technology team from Grupo Brisanet.
 ### 🌐 We seek to deliver the best in technology to our customers, with Web and Mobile applications as day-to-day solutions.
 
 # Follow us
