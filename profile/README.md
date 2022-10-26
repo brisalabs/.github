@@ -1,6 +1,6 @@
 # About US
 ### 👋 Hello, we are a technology team from Grupo Brisanet.
-### 🌐 We seek to deliver the best in technology to our customers, with Web and Mobile applications as day-to-day solutions.
+### 🌐 We seek to deliver the best in technology to our customers, with Web and Mobile applications as solutions for the user's daily life.
 
 # Follow us
 [![Github](https://img.shields.io/github/followers/brisalabs?label=Follow&style=social)](https://github.com/brisalabs)
